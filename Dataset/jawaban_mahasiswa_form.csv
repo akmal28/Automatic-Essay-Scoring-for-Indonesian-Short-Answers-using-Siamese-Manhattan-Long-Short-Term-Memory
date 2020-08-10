@@ -1,0 +1,81 @@
+jawaban,nilai
+"Komputer besar yang masih menggunakan unit kontrol, unit penghitung, dan unit memori untuk sebuah input dan mengeluarkan output",70
+Kondisi mematikan daya komputer dengan menyimpan segala kondisi sebelum hibernate pada sebuah state,50
+"Client = pengguna, server = pusat, yang punya sistem",40
+Fitur untuk meningkatkan performa sebuah sistem lebih dari penggunaan dari biasanya dan mendekati peggunaan maksimal,60
+"Dasar perkembangan komputer dengan bagian seperi ALU, memori, IO",40
+Mode di komputer untuk menghemat daya listrik,30
+"Client: perangkat yang menerima informasi dan menjalankan aplikasi. Server sebagai pusat pengendali data, aplikasi dan keamanan",60
+Kemampuan processor untuk meningkatkan frekuensi clock agar performa lebih baik,70
+"Komputer Von Neumann terdiri dari tiga unsur utama, yaitu hardware, software, dan brainware.",20
+Hibernate berarti PC akan melakukan power down untuk menghemat pemakaian daya tanpa pengguna harus kehilangan data dan proses yang sedang berlangsung.,50
+"Client adalah hardware penerima, sementara server adalah hardware yang menyediakan informasi dan fungsi-fungsi yang dapat diakses oleh client.",70
+Turbo Boost adalah kondisi yang sangat amat cepat.,50
+"Komputer model von neumann adalah arsitektur komputer yang umum dipakai saat ini dimana ada input, cpu, dan output.",70
+hibernate adalah kondisi dimana pc tidak beroperasi namun tidak juga mati sehingga operasi yang sedang kita jalankan dijeda dan disimpan sampai pc dinyalakan kembali,60
+"client server pada jaringan komputer adalah dua entitas yang mengirimkan, menerima, dan/atau menyediakan data pada jaringan tersebut",60
+"Saya tidak tahu apa hubungan turbo boost dengan komputer, namun dalam dunia otomotif turbo boost merupakan tekanan udara tambahan dari turbo yang membantu siklus pembakaran pada mesin pembakaran dalam",20
+"Von Neumann merupakan arsitektur komputer yang saat ini dijumpai. Memiliki 3 komponen utama yaitu memori, perangkat input dan output (I/O), dan CPU (Central Processing Unit). Memori merupakan komponen untuk menyimpan data dan perangkat I/O berguna untuk memberikan masukan seperti perintah dari keyboard dan menerima hasil seperti monitor untuk menampilkan gambar. Sedangkan CPU memiliki 2 sub komponen, yaitu control unit (CU) dan arithmetic logic unit (ALU). CU berguna untuk memberikan perintah untuk transfer-transfer data baik dari CPU itu sendiri, memori, atau perangkat I/O untuk memasuki suatu slot. Terakhir ALU berfungsi untuk melakukan perhitungan pada komputer yang memiliki beberapa slot dan terdapat akumulator untuk memproses itu.",100
+"Hibernate memiliki kesamaan dengan sleep karena daya dimatikan sama sekali, tetapi perbedaannya berada pada dokumen yang disimpan. Pada sleep, semua operasi dihentikan sedangkan pada hibernate dokumen tersebut disimpan pada harddisk sehingga saat dinyalakan kembali dokumen tersebut dapat digunakan kembali.",70
+"Client server merupakan relasi yang terjalin pada suatu jaringan. Client server terjadi karena adanya server dan server ini bisa berupa web, file, atau mail server. Client server biasanya dikenal sebagai user dengan perangkat komputer ataupun smartphone. User ini meminta akses untuk menjalin koneksi dan meminta atau mengirim data ke server.",70
+"Turbo boost dengan kata lain adalah overclocking yang dilakukan untuk processor intel. Turbo boost menghasilkan performa yang lebih baik karena frekuensi processor dinaikkan. Akan tetapi memiliki beberapa dampak buruk yang bisa terjadi seperti umur perangkat yang semakin singkat, hal ini disebabkan oleh processor akan bekerja di atas normal dan suhu meningkat secara signifikan.",80
+"von neumann adalah arsitektur komputer yang pertama kali dibuat. Sejarah komputer sendiri sebenarnya dibuat pada perang dunia kedua dimana digunakan mesin yang dibuat oleh Alan Turing, ilmuwan Inggris, untuk memecahkan kode rahasia milik jerman. Keberhasilan mesin yang dibuat Turing membuat ilmuan lain seperti von Neumann untuk mengembangkan sistem ""pemecah kode"" dan yang sekaligus melakukan komputasi. arsitektur adanya register-register sebagai bagian dari ""otak"" komputer pun dibuat, dan bisa dibilang yang paling efektif",30
+"hibernate adalah keadaan komputer tidak mati mesinnya sehingga RAM, ROM, dll masih menyala tapi sebagian besar daya bisa dihemat karena layar, keyboard dll mati",20
+"client adalah pihak yang meminta data pada suatu jaringan, dan server adalah pihak yang ""melayani"" karena penyimpanan data berada disana. contohnya ketika kita membuka sebuah website, komputer kita merupakan client, dan akan mengirimkan pesan kepada server bahwa kita meminta data dari website tersebut agar ditampilkan (tampilan gambar, tulisan dll dari website). kemudian server akan mengirimkan data yang kita inginkan, dengan syarat koneksinya terjalin baik (ACK)",80
+turbo boost adalah kondisi pada mobil turbo dimana mobil tersebut ketika digaspol mendapatkan tenaga tambahan berkat adanya turbo. mobil akan menjadi jauh lebih kencang. kami suka turbo,10
+"model von neumann merupakan salah satu arsitektur komputer yang diciptakan oleh von neumann. didalamnya terdapat memori, alu,  control unit, dan input/output",80
+"hibernate adalah salah satu mode power off windows yang bertujuan untuk mematikan komputer seluruhnya namun menyimpan state saat komputer dimatikan untuk dilanjutkan saat power dinyalakan kembali. Pada windows 10 fitur ini tidak muncul secara default, melainkan harus diatur agar ditampilkan pada mode power.",50
+client server merupakan suatu model pada jaringan komputer dimana server merupakan penyedia resource sedangkan client merupakan sisi yang melakukan request terhadap resource yang dimiliki oleh server,70
+maaf saya kurang tahu,0
+"Von Neumann architecture is based on the stored-program computer concept, where instruction data and program data are stored in the same memory.  This design is still used in most computers produced today.",60
+"Hibernate mirip dengan kondisi sleep, namun jika pada kondisis sleep data disimpan di dalam RAM, pada kondisi hibernate data disimpa di drive",80
+Komputer yang menggunakan layanan yang tersedia pada jaringan tersebut,20
+"Kondisi dimana prosesor bekerja semaksimal mungkin dengan meningkatkan clock pada CPU, namun Turbo terbatas oleh kemampuan pendinginan dari sistem tersebut",50
+Arsitektur komputer pertama yang dibuat dan digunkakan hinggu sekarang,30
+Mengistirahatkan laptop tapi tidak di shutdown,40
+Suatu hubungan antara komponen jaringan sehingga dapat saling berkomunikasi,30
+Teknologi agar semakin cepat,10
+"Komputer model Von Neuman merupakan arsitektur komputer yang diciptakan oleh Von Neumann, arsitektur komputer ini terdiri dari 4 bagian utama, yaitu aritmetika dan logis (ALU), kontrol unit, memori dan input/output",90
+"Hibernate merupakan salah satu fitur yang terdapat pada komputer, dimana fitur ini menggabungkan antara Shut Down dengan Sleep. Hibernate dapat mematikan komputer tanpa menghilangkan keadaan komputer pada saat menyala, hal ini dikarenakan pada saat komputer di-hibernate komputer akan otomatis menyimpan keadaan pc (seperti file/aplikasi yang sedang dijalankan) ke dalam hard disk",70
+Client merupakan sebuah perangkat komputer yang meminta (request) dan menerima data melalui jaringan. Server merupakan sebuah perangkat komputer yang dirancang untuk melayani client dengan memproses request dan memberikan data yang diminta oleh client melalui jaringan komputer,80
+"Turbo boost adalah suatu fitur yang dapat mendongkrak clockspeed dasar dari sebuah prosesor menjadi jauh lebih besar, sehingga memiliki kemampuan yang lebih baik dari sebelumnya",70
+komputer generasi awal,10
+Dimana PC menyimpan data ke memori non volatile secara sementara hingga PC dihidupkan kembali,30
+fundamental dari centralized infrastructure ,20
+clock boost yg disediakan dari intel,10
+"Komputer yang memiliki processing unit, memory, dan input/ouput",80
+"Menyimpan kondisi sekarang komputer ke ROM saat akan mematikan daya, sehingga saat dihidupkan kembali dapat melanjutkan kondisi yang telah disimpan sebelumnya",80
+Server merupakan penyedia dan penyimpanan data yang dapat memberikan data-data tersebut kepada Client yang ingin mendapatkan data tersebut.,80
+Meningkatkan frekuensi dari processor sehingga dapat lebih baik dalam melakukan fungsi-fungsinya.,60
+Model von Neumann adalah model komputer yang menjadi dasar arsitektur komputer modern,40
+Hibernate adalah kondisi dimana power diputus dari komponen PC dan semua kegiatan disimpan pada hardisk,50
+"Client adalah pihak yang memerlukan dan mengakses sumber daya seperti web page, file, dll. Server adalah perangkat yang menyediakan sumber daya / layanan yang dibutuhkan client",90
+Turbo boost adalah teknologi yang meningkatkan  clockrate dari processor komputer sehingga memiliki kinerja yang lebih baik,70
+Komputer model pertama yang ditemukan pada akhir perang dunia 2,30
+"Mengurangi penggunaan listrik, menympan state terakhir komputer dalam memori sementara",40
+Pengguna dan penyedia internet,50
+Kecepatan tinggi,20
+"Sebuah arsitektur yang dibuat oleh Neumann dan masih dipakai hingga kini. Terdapat 4 bagian utama dalam arsitektur tersebut yaitu Unit Aritmetika dan Logis (ALU), unit kontrol, memori, dan alat masukan dan hasil (secara kolektif dinamakan I/O). Keempat bagian yang telah disebutkan sebelumnya dihubungkan dengan bus (berkas kawat).Arsitektur ini hadir guna untuk memperbaiki konsep arsitektur sebelumnya dari ENIAC. Hal utama yang hadir dalam perbaiki tersebut adalah konsep penyimpanan program. Secara teknis keempat bagian utama arsitektur mempunyai fungsi masing-masing yaitu : Memori Utama : Menyimpan data maupun instruksi. Unit Aritmetika dan Logis  (ALU) : Mengolah data biner. Unit Kontrol : Melakukan interpretasi instruksi – instruksi di dalam memori sehingga adanya eksekusi instruksi tersebut. Input/Output : Melakukan interaksi dengan lingkungan luar.",100
+"Hibernate pada perangkat komputer/laptop (PC) adalah sebuah fitur Sistem Operasi (OS) yang berfungsi untuk melakukan penyimpanan data pada Hard Disk ketika PC melakukan penghematan listrik (mematikan sementara) dengan cara kerja Stand by mode. Ketika menjalankan hibernate PC dalm keadaan mati, tetapi tidak mati total.",90
+"Jaringan client server salah suatu arsitektur jaringan komputer yang mempunyai fungsi untuk membuat perangkat client melakukan proses meminta data. Perangkat client biasanya berupa perangkat komputer dengan aplikasi software yang telah terinstal, guna untuk meminta dan menerima data melalui jaringan. Salah satu contoh aplikasi software yang paling sering digunakan untuk meminta dan menerima data pada jaringan adalah web browser, dimana user dapat melakukan request untuk sebuah halaman web, melalui aplikasi web browser (persis seperti yang anda lakukan saat ini). Perangkat lain yang dapat pula dikategorikan sebagai client ialah perangkat mobile seperti smartphone atau tablet.",100
+"Turbo Boost adalah sebuah fitur yang memungkinkan sebuah prosesor meningkatkan frekuensi secara otomatis agar lebih cepat dari pada frekuensi semula. Contoh sebuah  prosesor Intel i7-9850H yang mempunyai frekuensi dasar 2.60 GHz, bila diaktifkan Turbo Boost frekuensinya bisa naik sampai 4.60 GHz.",80
+"Komputer model pertama yang menjadi pedoman modern architecture dimana dapat mengerjakan suatu program yang telah tersimpan didalamnya. terdiri atas CPU (control unit, logic unit), memory, serta input dan output device. ",90
+"Mode dimana PC tetap masuk kedalam mode low power mode, dimana HDD/storage device menyimpan seluruh pekerjaan yang dikerjakan pada PC secara sementara. ",70
+"Client merupakan yang merequest data, dimana server adalah penyedia data dan tempat data tersimpan. Untuk client-server merupakan suatu sistem/relasi antara pengguna (client) dengan penyedia data (server)",70
+"Turbo boost merupakan suatu sistem yang diberikan pada produsen prosesor, untuk meningkatkan performa dari prosesor tersebut jika dalam keadaan yang memadai/sesuai dengan batas yang diberikan.",70
+"Komputer yang memiliki arsitektur dengan komponen processing unit, control unit, penyimpanan data dan mekanisme input output",80
+mematikan komputer dengan menyimpan kondisi terakhir,40
+Client server adalah sebuah model aplikasi terdistribusi yang membagi tugas antara penyedia layanan dan yang meminta layanan.,60
+Turbo Boost adalah mempercepat kinerja processor agar memiliki performa yang lebih optimal,80
+"komputer model von neumann merupakan komputer generasi pertama yang terdiri dari memori, alu, input, dan output",80
+kondisi hibernate pada komputer adalah kondisi dimana komputer dalam keadaan mati tapi tidak sepenuhnya. data akan disimpan di ROM atau hard disk. ketika dinyalakan kembali data tidak hilang.,70
+"komunikasi client server dalam jaringan komputer merupakan komunikasi dua arah, dimana client berperan sebagai peminta informasi dan server sebagai penyedia informasi. ",60
+turbo boost adalah suatu kondisi dimana terjadi penambahan kecepatan pada suatu prosesor hingga mencapai kecepatan maksimal.,60
+"komputer model von neumann merupakan komputer yang dibuat tahun 1945. konsep dari komputer von neumann digunakan hingga saat ini. struktur komputer ini terdiri dari empat bagian, yaitu unit pemrosesan yang berisi ALU dan register prosesor, unit kontrol yang berisi program counter dan instruction register, memori untuk penyimpanan, serta input dan output",90
+"hibernate adalah salah satu kondisi dimana pc dimatikan sementara waktu seperti sleep. bedanya, hibernate menggunakan energi yang lebih kecil dibandingkan dengan sleep. data yang sebelumnya disimpan di random access memory dipindahkan ke read only memory atau hard disk. sehingga, ketika dinyalakan kembali data tidak hilang. ",80
+"client server dalam jaringan komputer merupakan komunikasi antara dua belah pihak, yaitu server sebagai penyedia layanan atau informasi, dan client sebagai pihak yang meminta informasi. client juga dapat bertindak sebagai penyedia informasi dan mengirimkannya ke server. ",80
+turbo boost merupakan fitur dari prosesor untuk meningkatkan kinerja prosesor. frekuensi clock pada prosesor akan ditingkatkan sehingga dapat mempercepat kerja transmisi,80
+"komputer von neumann adalah komputer pertama yang dibuat oleh John Von Neumann pada tahun 1945. komputer ini terdiri dari empat komponen, yaitu prosesor, memori, input, dan output.",90
+"hibernate merupakan kondisi yang mirip dengan sleep, yaitu komputer menyala dengan energi yang sangat kecil. perbedaannya hibernate memindahkan data dari RAM dan menyimpannya di ROM atau hard disk agar tidak hilang ketika dinyalakan kembali. proses menghidupkan kembali pada kondisi hibernate lebih lama dibandingkan dengan sleep.",90
+"dalam jaringan komputer, client bertindak sebagai peminta atau pengguna layanan, dan server merupakan penyedia layanan tersebut. biasanya hal ini dilakukan dengan dua mesin yang berbeda, namun juga bisa terjadi dalam mesin yang sama.",80
+turbo boost adalah peningkatan performa dari prosesor. peningkatan yang dimaksud adalah mempercepat frekuensi clocking.,70
